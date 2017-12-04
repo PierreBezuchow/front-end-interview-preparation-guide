@@ -58,7 +58,7 @@ should bring everything together.
 
 #### [Learn Ecamscript 6 interactively](https://github.com/ericdouglas/ES6-Learning)
 
-### Data Strcutrues
+### Data Structures
 
 #### [Itsy Bitsy Data Structures](https://github.com/thejameskyle/itsy-bitsy-data-structures)
 
@@ -77,7 +77,7 @@ developers approach to programming._
 # Practice
 
 This is where it all comes together. Go through as many practice problems as you
-can. There's no secret to it other than time, effort, and repitition. If you
+can. There's no secret to it other than time, effort, and repetition. If you
 don't know an answer spend extra time understanding it.
 
 ### Practice questions 🔑
@@ -114,9 +114,9 @@ interviewing at Facebook or Airbnb. Try your best to solve the questions without
 looking up answers. Break the problem down into small pieces and start solving
 from there.
 
-#### [Facebook Glassdoor Frontend Interivew questions](https://www.glassdoor.ca/Interview/Facebook-Front-End-Engineer-Interview-Questions-EI_IE40772.0,8_KO9,27.htm)
+#### [Facebook Glassdoor Frontend Interview questions](https://www.glassdoor.ca/Interview/Facebook-Front-End-Engineer-Interview-Questions-EI_IE40772.0,8_KO9,27.htm)
 
-#### [Airbnb Glassdoor Frontend Interivew questions](https://www.glassdoor.ca/Interview/Airbnb-Front-End-Engineer-Interview-Questions-EI_IE391850.0,6_KO7,25.htm)
+#### [Airbnb Glassdoor Frontend Interview questions](https://www.glassdoor.ca/Interview/Airbnb-Front-End-Engineer-Interview-Questions-EI_IE391850.0,6_KO7,25.htm)
 
 ### Paid sources
 
