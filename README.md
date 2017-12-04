@@ -56,7 +56,7 @@ should bring everything together.
 
 #### [Ecmascript 6](https://www.nczonline.net/blog/tag/ecmascript-6/)
 
-#### [Learn Ecamscript 6 interactively](https://github.com/ericdouglas/ES6-Learning)
+#### [Learn Ecmascript 6 interactively](https://github.com/ericdouglas/ES6-Learning)
 
 ### Data Structures
 
