@@ -130,9 +130,11 @@ from there.
 
 This is a curated list of resources by the team at Jobeir.
 <a href="https://jobeir.com/jobs?q=Frontend%20Developer">Find the best jobs at
-the best tech companies</a>
+the best tech companies</a>.  
 
-[![Join the Jobeir community on Spectrum](https://withspectrum.github.io/badge/badge.svg)](https://spectrum.chat/jobeir)
+We're a new (engineering/product/design focused)job board focused on helping people find their perfect job. We value the small details and making a difference through communication, content, and product.  
+
+<a href="https://jobeir.com/jobs">https://jobeir.com</a>
 
 <hr />
 
