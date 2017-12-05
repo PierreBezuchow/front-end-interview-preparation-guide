@@ -134,7 +134,7 @@ the best tech companies</a>.
 
 We're a new (engineering/product/design focused) job board focused on helping people find their perfect job. We value the small details and making a difference through communication, content, and product.  
 
-<a href="https://jobeir.com/jobs">https://jobeir.com</a>
+<a href="https://jobeir.com/jobs">Jobeir.com</a>
 
 <hr />
 
